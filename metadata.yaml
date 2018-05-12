@@ -1,0 +1,37 @@
+_repo: The-Tigress_37236
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schabelitz, R. F. (Rudolph Frederick)
+    alias: Schabelitz, Rudolph Frederick
+    birthdate: 1884
+    gutenberg_agent_id: '7952'
+    url: http://www.gutenberg.org/2009/agents/7952
+covers:
+- cover_type: archival
+  image_path: 37236-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Warner, Anne
+    aliases:
+    - French, Anne Warner
+    - French, Anna Richmond Warner
+    - French, Anne Richmond Warner
+    birthdate: 1869
+    deathdate: 1913
+    gutenberg_agent_id: '6279'
+    url: http://www.gutenberg.org/2009/agents/6279
+description: ''
+gutenberg_issued: '2011-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: The Tigress
+url: http://www.gutenberg.org/ebooks/37236
